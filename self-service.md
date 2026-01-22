@@ -5,7 +5,7 @@
 
 - Always keep the door closed and do not let in anyone that you do not know.
 
-- Machines are controlled by an Amazon Echo. You can control the power to the machines by issuing commands to Alexa. There is a full list of machine names and commands listed [here](machine-operation.md).
+- Machines are controlled by an Amazon Echo. You can control the power to the machines by issuing commands to Alexa. There is a full list of machine names and commands listed [**here**](machine-operation.md).
 
 - You may change machine volumes, but keep them to a minimum when you are alone.
 
@@ -14,3 +14,6 @@
   - Make sure you turn off/close anything that YOU turned on/opened before you leave.
 
 Issues or problems with any machines can be reported in the [#help-and-feedback](https://discord.gg/qktweaJXKJ) Discord channel or by messaging staff.
+
+## Quick Links
+- [Machine Operation](machine-operation.md)
