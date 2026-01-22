@@ -1,4 +1,4 @@
-# The Nest Arcade Information & Rules
+# Information & Rules
 The Nest Arcade is a community arcade with a focus on rhythm gaming. We operate on a limited amount of open hours each week, as well as a membership-based self-service model that allows members to visit any time on their own.
 
 - __Open Gym__ is our standard open hours for visiting the arcade. Everyone is welcome to visit during these scheduled times. Hours are posted [here](https://member.nest.cab/calendar.html).
