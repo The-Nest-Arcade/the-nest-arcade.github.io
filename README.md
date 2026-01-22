@@ -39,3 +39,8 @@ The Nest Arcade is a community arcade with a focus on rhythm gaming. We operate 
 ## Snacks
 Water and Capri Sun are available for sale in the refrigerator for $2. Filtered water is available for free in the refrigerator in the Break Room outside of the arcade.
 
+## Quick Links
+- [Membership Self-Service Information](self-service.md)
+- [Machine Operation](machine-operation.md)
+
+
