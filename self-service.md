@@ -1,4 +1,4 @@
-# The Nest Arcade Membership Self-Service Rules
+# Membership Self-Service Rules
 - Always check-in at the entrance with the QR Code when entering. A check-in is valid for the whole day.
 
 - You may bring up to two guests with you at any time. If you are interested in bringing more than two during non-open hours, please reach out ahead of time to get approval from staff.
