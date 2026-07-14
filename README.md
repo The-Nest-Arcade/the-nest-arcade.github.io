@@ -3,7 +3,7 @@ The Nest Arcade is a community arcade with a focus on rhythm gaming. We operate 
 
 - __Open Gym__ is our standard open hours for visiting the arcade. Everyone is welcome to visit during these scheduled times. Hours are posted [here](https://member.nest.cab/calendar.html).
 
-- __Freeplay__ events are typically held every Friday from 7pm-Midnight. These events are also open to everyone and do not require any sort of payment. Check the schedule or Discord events to know when these are happening.
+- __Freeplay__ events are open to everyone and do not require any sort of payment. Check the schedule or Discord events to know when these are happening.
 
 - __Self-Service__ is available to members 24 hours a day. You can become a member by purchasing at least a 5-punch card and going through the onboarding process. __Please thoroughly read this document, as well as the [self-service](self-service.md) document prior to attempting to be onboarded.__
 
