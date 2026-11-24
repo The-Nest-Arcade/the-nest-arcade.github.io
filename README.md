@@ -34,7 +34,7 @@ The Nest Arcade is a community arcade with a focus on rhythm gaming. We operate 
 
 ## __Restroom Door Codes__
 - Women’s: 7598
-- Men’s: 1563
+- Men’s: 1950
 
 ## Snacks
 Water and Capri Sun are available for sale in the refrigerator for $2. Filtered water is available for free in the refrigerator in the Break Room outside of the arcade.
